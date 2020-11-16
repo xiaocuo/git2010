@@ -86,3 +86,9 @@
 10. 重新配置origin
 11. 删除原来的配置：git remote rm origin
 12. 添加新的关联：git remote add origin ssh地址
+
+## git忽略列表
+1. 创建文件：.gitignore
+2. 忽略文件列表
+3. 在忽略列表中列出不需要提交到版本库的文件及目录
+
