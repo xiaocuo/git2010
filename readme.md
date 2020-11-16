@@ -61,5 +61,7 @@
 3. 创建分支：git branch 分支名
 4. 切换分支：git checkout 分支名  
 5. 切换分支之后，工作区的代码自动切换到对应分支的代码
+6. 合并分支：git merge test  把test分支合并到当前分支
+7. 删除分支：git branch -d 分支名
 
-test分支的代码
+
